@@ -11,7 +11,7 @@ Me especializo en diseñar sistemas claros, con buenas prácticas, separación d
 
 - 💻 Full Stack Developer (Backend-oriented)
 - 🏗️ Enfoque fuerte en arquitectura y diseño de sistemas
-- 🔁 Experiencia creando interfaces y dashboards reutilizables
+- 🔁 Experiencia sólida en diseño UX & UI
 - 🧠 Mentalidad de producto y código mantenible
 - 🌱 Aprendizaje constante
 
